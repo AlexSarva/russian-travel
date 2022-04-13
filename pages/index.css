@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/link/link.css);
-@import url(../blocks/link/__type/link__type_active.css);
+@import url(../blocks/link/_type/link_type_active.css);
 
 @import url(../blocks/content/content.css);
 
