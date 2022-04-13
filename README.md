@@ -38,7 +38,7 @@
 
 **Ссылка**
 
-Посмотреть проект можно [тут](https://students-yandex.github.io/russian-travel/index.html).
+Посмотреть проект можно [тут](https://alexsarva.github.io/russian-travel/index.html).
 <p align="center">
 <img src="https://media4.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" alt="">
 </p>
