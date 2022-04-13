@@ -1,23 +1,44 @@
+
+![version v0.2.1](https://img.shields.io/badge/version-v0.1.2-success)
+![unstable](https://img.shields.io/badge/stability-unstable-red)
+![language](https://img.shields.io/badge/language-HTML%20%2F%20CSS-blue)
+
+
 # Проект: Путешествие по России
 
+## Описание
+Проект о путешествиях по России. Интересные и захватывающие места и локации  
+<p align="center">
+<img src="https://i.pinimg.com/originals/a2/5a/12/a25a12b83aae5d6e614300088a285db0.gif" alt="">
+</p>
+
 ### Обзор
-* Интро
-* Figma
-* Картинки
+* Технологии
+* Планы по доработке
+* Ссылка
 
-**Интро**
+**Технологии:**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+* HTML
+  * БЭМ методология
+* CSS
+  * GRID / Flex
+  * адаптивность
 
-**Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+<p align="center">
+<img src="https://blog.theodo.com/c62edd75f2fd2e94c7fa9758db463f0b/debugging-css.gif" alt="">
+</p>
 
-**Картинки**
+**Планы по доработке**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+* Улучшенная адаптивная верстка
+* Анимация
+* Интерактивность
 
-Удачи!
+**Ссылка**
+
+Посмотреть проект можно [тут](https://students-yandex.github.io/russian-travel/index.html).
+<p align="center">
+<img src="https://media4.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" alt="">
+</p>

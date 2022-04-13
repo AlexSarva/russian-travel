@@ -1,0 +1,20 @@
+.place {
+  width: 100%;
+  display: grid;
+  grid-template-columns: fit-content(45%) minmax(min-content,1fr);
+  grid-template-rows: repeat(2, min-content);
+  column-gap: 40px;
+  row-gap: 48px;
+  grid-template-areas:
+    "title website"
+    "images texts";
+}
+
+@media screen and (max-width: 767px) {
+  .place {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    row-gap: 0;
+  }
+}

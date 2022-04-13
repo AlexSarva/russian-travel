@@ -1,0 +1,12 @@
+.place__text {
+  grid-area: texts;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .place__text {
+    width: 90%;
+    margin: 32px auto 0;
+  }
+}
