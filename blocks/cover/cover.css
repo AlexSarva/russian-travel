@@ -2,10 +2,6 @@
   width: 90%;
   min-height: 740px;
   margin: 92px auto 0;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 @media screen and (max-width: 1024px){
@@ -18,7 +14,6 @@
 
 @media screen and (max-width: 768px){
   .cover {
-    width: 100vw;
     min-height: 480px;
     max-height: 480px;
     margin: 90px auto 0;
@@ -27,7 +22,6 @@
 
 @media screen and (max-width: 767px){
   .cover {
-    width: 100vw;
     min-height: 200px;
     max-height: 200px;
     margin: 66px auto 0;

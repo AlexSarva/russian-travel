@@ -8,6 +8,7 @@
 
 @media screen and (max-width: 767px) {
   .place__image {
+    width: 100vw;
     display: block;
     margin: 32px 0 0;
   }

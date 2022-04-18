@@ -3,6 +3,7 @@
   margin: 90px auto 0;
   display: grid;
   grid-template-columns: fit-content(70%);
+  overflow: hidden;
 }
 
 @media screen and (max-width: 1024px){

@@ -16,5 +16,6 @@
     flex-direction: column;
     justify-content: flex-start;
     row-gap: 0;
+    overflow: hidden;
   }
 }

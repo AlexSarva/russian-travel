@@ -6,6 +6,7 @@
   font-family: 'Inter-Black', Arial, sans-serif;
   line-height: 1.1;
   color: #FFF;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 768px) {
@@ -18,7 +19,7 @@
   .place__title {
     width: 90%;
     font-size: 32px;
-    text-align: center;
+    text-align: left;
     margin: 0 auto 0;
   }
 }

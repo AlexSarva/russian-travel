@@ -7,7 +7,8 @@
   line-height: 1.1;
   color: white;
   text-align: center;
-  z-index: 5;
+  position: relative;
+  /*z-index: 5;*/
 }
 
 @media screen and (max-width: 1024px){
@@ -19,7 +20,6 @@
 
 @media screen and (max-width: 768px){
   .cover__title {
-    width: 70%;
     margin: 115px 0 0;
   }
 }
@@ -30,5 +30,14 @@
     margin: 33px 0 0;
     font-size: 32px;
     line-height: 1;
+  }
+}
+
+@media screen and (max-width: 300px){
+  .cover__title {
+    margin: 33px 0 0;
+    font-size: 15px;
+    line-height: 1;
+    overflow: hidden;
   }
 }
